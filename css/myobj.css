@@ -99,9 +99,16 @@
 
 
 
+.coler-br{
+    
+    background-color: #95a5a6;
+}
 
 
-
+.coler-br1{
+    
+    background-color: #bdc3c7;
+}
 
 
 .hstyle1{
@@ -326,10 +333,10 @@
     line-height: 50px;
 }
 
+
 #communecat{
     
-    
-    background-color: #8395a7;
+    background-color: #74b9ff;
     
     background-repeat: no-repeat;
     
@@ -337,44 +344,59 @@
     
     padding-bottom: 50px;
     
+    padding-top: 100px;
+
+    
+}
+
+
+
+.card-body1{
+    
+    background-color: #f5f6fa;
+        
+    padding: 50px;
+    
+    border-radius: 30px;
+    
+    border-color:#f5f6fa; 
+}
+
+
+.myspan1{
+    
+    background-color: #dcdde1;
 }
 
 .textle{
     
-    
-    padding-bottom: 30px;
-    
-    background-color: ;
+    text-align: center;
 }
 
-
-.paddform{
+.card1{
     
-    padding-top: 30px;
+        border-radius: 30px;
+
     
 }
 
-.paddul{
+.paddindin{
     
-    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
-.btn-primary{
-    
-    background-color: #ff9ff3;
-    
-    color: #222f3e;
+.btn-google {
+  color: white;
+  background-color: #eb4d4b;
 }
 
-a{
-    
-    color: #ff9ff3;
+.btn-facebook {
+  color: white;
+  background-color: #0984e3;
 }
 
-.myspan1{
-    
-    background-color: #FDA7DF;
-}
+
+
 
 #footer1{
     
